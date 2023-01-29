@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "BQ25887RGET")(type "KiCad")(uri "${KIPRJMOD}/symbol_libs/BQ25887RGET.kicad_sym")(options "")(descr ""))
+  (lib (name "DIO6605BFN8")(type "KiCad")(uri "${KIPRJMOD}/symbol_libs/DIO6605BFN8.kicad_sym")(options "")(descr ""))
+)
