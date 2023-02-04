@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "digikey-footprints")(type "KiCad")(uri "/home/noah/Documents/kicad_projects/libraries/digikey-footprints.pretty")(options "")(descr ""))
+)
