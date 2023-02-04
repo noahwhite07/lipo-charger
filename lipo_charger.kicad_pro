@@ -383,6 +383,7 @@
           "+BATT",
           "-BATT",
           "GND",
+          "Net-(SW1-Pad3)",
           "VBUS"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
