@@ -2118,7 +2118,7 @@
     (uuid 850edcd7-b864-48d3-a8a2-fab306866bd1)
     (property "Reference" "U2" (id 0) (at 81.28 113.03 0))
     (property "Value" "DIO6605B" (id 1) (at 81.28 115.57 0))
-    (property "Footprint" "Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.7x1.4mm" (id 2) (at 71.12 132.08 0)
+    (property "Footprint" "Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.6x1.5mm" (id 2) (at 71.12 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 71.12 132.08 0)
@@ -2538,7 +2538,7 @@
       (reference "U1") (unit 1) (value "MCP73831") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/850edcd7-b864-48d3-a8a2-fab306866bd1"
-      (reference "U2") (unit 1) (value "DIO6605B") (footprint "Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.7x1.4mm")
+      (reference "U2") (unit 1) (value "DIO6605B") (footprint "Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.6x1.5mm")
     )
     (path "/72076c21-c88d-4300-b670-44782e8430c6"
       (reference "U3") (unit 1) (value "AP9101CK") (footprint "Package_TO_SOT_SMD:SOT-23-5")
