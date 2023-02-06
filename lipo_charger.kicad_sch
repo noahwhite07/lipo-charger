@@ -1940,7 +1940,7 @@
     (in_bom yes) (on_board yes)
     (uuid 56e6188e-bbbc-4aaa-8e4c-89a99b5f65d8)
     (property "Reference" "R3" (id 0) (at 118.11 80.01 0))
-    (property "Value" "4.7k" (id 1) (at 118.11 82.55 0))
+    (property "Value" "2.7k" (id 1) (at 118.11 82.55 0))
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 120.65 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2116,8 +2116,8 @@
   (symbol (lib_id "DIO6605BFN8:DIO6605B") (at 81.28 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 850edcd7-b864-48d3-a8a2-fab306866bd1)
-    (property "Reference" "U2" (id 0) (at 81.28 113.03 0))
-    (property "Value" "DIO6605B" (id 1) (at 81.28 115.57 0))
+    (property "Reference" "U2" (id 0) (at 81.28 114.5372 0))
+    (property "Value" "DIO6605B" (id 1) (at 81.28 117.0741 0))
     (property "Footprint" "Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.6x1.5mm" (id 2) (at 71.12 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2523,7 +2523,7 @@
       (reference "R2") (unit 1) (value "220") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/56e6188e-bbbc-4aaa-8e4c-89a99b5f65d8"
-      (reference "R3") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+      (reference "R3") (unit 1) (value "2.7k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/c2292aaf-d708-456d-8b2c-7fe6a17b8c3e"
       (reference "R4") (unit 1) (value "330") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
