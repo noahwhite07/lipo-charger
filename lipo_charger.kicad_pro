@@ -383,6 +383,7 @@
           "+BATT",
           "-BATT",
           "GND",
+          "Net-(Q1-Pad4)",
           "Net-(SW1-Pad3)",
           "VBUS"
         ],
