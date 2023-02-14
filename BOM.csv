@@ -24,10 +24,10 @@ Item,Qty,Reference(s),Value,Link,Datasheet,Description,MPN,Price
 12,2,"R2, R5",220,https://www.mouser.com/ProductDetail/YAGEO/RC0805FR-07220RL?qs=sGAEpiMZZMtlubZbdhIBICC4CHQm9fZuGsE02AR9%252BB0%3D,~,Resistor,RC0805FR-07220RL,0.1
 13,1,R3,1k,https://www.mouser.com/ProductDetail/YAGEO/RC0805JR-071K1L?qs=sGAEpiMZZMtlubZbdhIBIHucEnbnlIRR%2F5kUuCkTcKs%3D,~,Resistor,RC0805JR-071K1L,0.1
 14,1,R4,330,https://www.mouser.com/ProductDetail/YAGEO/RC0805FR-07332RL?qs=sGAEpiMZZMtlubZbdhIBIJv49G1poxg9nSdQyCzjNpA%3D,~,Resistor,RC0805FR-07332RL,0.1
-15,1,SW1,SW_SPDT,https://www.mouser.com/ProductDetail/E-Switch/EG1224?qs=HKd%2Fp3M7KlUMARNITVNimA%3D%3D,~,SPDT Switch,EG1224,0.93
+15,1,SW1,SW_SPDT,https://www.mouser.com/ProductDetail/CK/OS102011MA1QN1?qs=WtljUlYws5R6MUgHcLkz4w%3D%3D,~,SPDT Switch,OS102011MA1QN1,0.5
 16,1,U1,MCP73831,https://www.mouser.com/ProductDetail/Microchip-Technology/MCP73831T-2DCI-OT?qs=yUQqVecv4qu38ml9qkvsJw%3D%3D,http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf,Charging IC,MCP73831T-2DCI/OT,0.77
 17,1,U2,DIO6605B,https://www.mouser.com/ProductDetail/DIOO-Microcircuits/DIO6605BFN8?qs=8%252Br4Hz5Xir8oRr7fAuVW1Q%3D%3D,h,Boost IC,DIO6605BFN8,0.6
 18,1,U3,AP9101CK,https://www.mouser.com/ProductDetail/Diodes-Incorporated/AP9101CK6-AYTRG1?qs=lQAVKuKFhkLC7cM8EPuWZQ%3D%3D,https://www.diodes.com/assets/Datasheets/AP9101C.pdf,Protection IC,AP9101CK6-AYTRG1,0.46
 ,,,,,,,,
 ,,,,,,,,
-,,,,,,,Total,5.24
+,,,,,,,Total,4.81
