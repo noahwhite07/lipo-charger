@@ -1756,7 +1756,7 @@
     (uuid 2886b9cb-f705-411b-b7c5-ebafca1f4a4a)
     (property "Reference" "SW1" (id 0) (at 62.23 111.76 0))
     (property "Value" "SW_SPDT" (id 1) (at 62.23 114.3 0))
-    (property "Footprint" "Button_Switch_THT:SW_Slide_1P2T_CK_OS102011MS2Q" (id 2) (at 60.96 118.11 0)
+    (property "Footprint" "footprint_libs:SW_EG1224" (id 2) (at 60.96 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 60.96 118.11 0)
@@ -2470,7 +2470,7 @@
       (reference "R5") (unit 1) (value "220") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/2886b9cb-f705-411b-b7c5-ebafca1f4a4a"
-      (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "Button_Switch_THT:SW_Slide_1P2T_CK_OS102011MS2Q")
+      (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "footprint_libs:SW_EG1224")
     )
     (path "/30f62251-7f9a-407f-abad-8308def083a6"
       (reference "U1") (unit 1) (value "MCP73831") (footprint "Package_TO_SOT_SMD:SOT-23-5")

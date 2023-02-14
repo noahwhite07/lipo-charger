@@ -2,4 +2,5 @@
   (lib (name "BQ25887RGET")(type "KiCad")(uri "${KIPRJMOD}/symbol_libs/BQ25887RGET.kicad_sym")(options "")(descr ""))
   (lib (name "DIO6605BFN8")(type "KiCad")(uri "${KIPRJMOD}/symbol_libs/DIO6605BFN8.kicad_sym")(options "")(descr ""))
   (lib (name "DMN2053UVT")(type "KiCad")(uri "${KIPRJMOD}/symbol_libs/DMN2053UVT.kicad_sym")(options "")(descr ""))
+  (lib (name "EG1224")(type "KiCad")(uri "${KIPRJMOD}/symbol_libs/EG1224.kicad_sym")(options "")(descr ""))
 )
