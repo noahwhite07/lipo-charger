@@ -1,30 +1,33 @@
-Source:,D:\Program Files\KiCad_6\projects\lipo_charger\lipo_charger.kicad_sch,,,,,,,,,
-Date:,2/9/2023 15:37,,,,,,,,,
-Tool:,Eeschema (6.0.10),,,,,,,,,
-Generator:,D:\Program Files\KiCad_6\bin\scripting\plugins/bom_csv_grouped_by_value.py,,,,,,,,,
-Component Count:,19,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-Collated Components:,,,,,,,,,,
-,,,,,,,,,,
-Item,Qty,Reference(s),Value,Link,Datasheet,Description,Mouser_PN,MPN,Manufacturer,Price
-1,1,BT1,Battery,,~,LiPo Connector,,,,
-2,1,C1,10uF,,~,Capacitor,,,,
-3,1,C2,4.7uF,,~,Capacitor,,,,
-4,1,C3,100nF,,~,Capacitor,,,,
-5,1,D1,GREEN,,~,Green LED,,,,
-6,1,D2,RED,,~,Red LED,,,,
-7,1,J1,USB_B_Micro,,~,Micro USB Jack,,,,
-8,1,J2,22-23-2021,,https://media.digikey.com/pdf/Data%20Sheets/Molex%20PDFs/A-6373-N_Series_Dwg_2010-12-03.pdf,Male Pin Headers ,,22-23-2021,Molex,
-9,1,L1,4.7uH,,~,Inductor,,,,
-10,1,Q1,2N7002DW-7-F,,https://www.diodes.com/assets/Datasheets/ds30120.pdf,Dual NMOS,,2N7002DW-7-F,Diodes Incorporated,
-11,1,R1,2k,,~,Resistor,,,,
-12,2,"R2, R5",220,,~,Resistor,,,,
-13,1,R3,2.7k,,~,Resistor,,,,
-14,1,R4,330,,~,Resistor,,,,
-15,1,SW1,SW_SPDT,,~,SPDT Switch,,,,
-16,1,U1,MCP73831,https://www.mouser.com/ProductDetail/Microchip-Technology/MCP73831T-2DCI-OT?qs=yUQqVecv4qu38ml9qkvsJw%3D%3D,http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf,Charging IC,,MCP73831T-2DCI/OT,,0.77
-17,1,U2,DIO6605B,https://www.mouser.com/ProductDetail/DIOO-Microcircuits/DIO6605BFN8?qs=8%252Br4Hz5Xir8oRr7fAuVW1Q%3D%3D,h,Boost IC,,DIO6605BFN8,,0.6
-18,1,U3,AP9101CK,https://www.mouser.com/ProductDetail/Diodes-Incorporated/AP9101CK6-AYTRG1?qs=lQAVKuKFhkLC7cM8EPuWZQ%3D%3D,https://www.diodes.com/assets/Datasheets/AP9101C.pdf,Protection IC,,AP9101CK6-AYTRG1,,0.46
+Source:,D:\Program Files\KiCad_6\projects\lipo_charger\lipo_charger.kicad_sch,,,,,,,
+Date:,2/9/2023 15:37,,,,,,,
+Tool:,Eeschema (6.0.10),,,,,,,
+Generator:,D:\Program Files\KiCad_6\bin\scripting\plugins/bom_csv_grouped_by_value.py,,,,,,,
+Component Count:,19,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Collated Components:,,,,,,,,
+,,,,,,,,
+Item,Qty,Reference(s),Value,Link,Datasheet,Description,MPN,Price
+1,1,BT1,Battery,,~,LiPo Connector,,
+2,1,C1,10uF,https://www.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL21A106KOQNNNE?qs=sGAEpiMZZMsh%252B1woXyUXj7iNKXiFkBmwjufexzBEAvI%3D,~,Capacitor,CL21A106KOQNNNE,0.1
+3,1,C2,4.7uF,https://www.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL21A475KPFNNNE?qs=sGAEpiMZZMsh%252B1woXyUXj%252BV5GOLijFH8aKLPlSfdkdE%3D,~,Capacitor,CL21A475KPFNNNE,0.1
+4,1,C3,100nF,https://www.mouser.com/ProductDetail/Samsung-Electro-Mechanics/CL21F104ZBANNNC?qs=sGAEpiMZZMsh%252B1woXyUXjxqcB7t9naYp2FQ5fpmTNBQ%3D,~,Capacitor,CL21F104ZBANNNC,0.1
+5,1,D1,GREEN,https://www.mouser.com/ProductDetail/Wurth-Elektronik/150080VS75000?qs=LlUlMxKIyB0tGHJmO6%252B0ug%3D%3D,~,Green LED,150080VS75000,0.19
+6,1,D2,RED,https://www.mouser.com/ProductDetail/Wurth-Elektronik/150080RS75000?qs=LlUlMxKIyB2jdCo7bnfgew%3D%3D,~,Red LED,150080RS75000,0.19
+7,1,J1,USB_B_Micro,https://www.mouser.com/ProductDetail/GCT/USB3076-30-A?qs=KUoIvG%2F9IlZs3NcnVJVajg%3D%3D,~,Micro USB Jack,USB3076-30-A,0.7
+8,1,J2,~,~,,Pin Headers,~,0
+9,1,L1,4.7uH,https://www.mouser.com/ProductDetail/Murata-Electronics/LQM21PN4R7MGRD?qs=YinlzBdtFMg1XfDq8VsadA%3D%3D,~,Inductor,LQM21PN4R7MGRD,0.23
+10,1,Q1,DMN2053UVT-7,https://www.mouser.com/ProductDetail/Diodes-Incorporated/DMN2053UVT-7?qs=PqoDHHvF649Ijpluh6m8cg%3D%3D,https://www.diodes.com/assets/Datasheets/ds30120.pdf,Dual NMOS,DMN2053UVT-7,0.37
+11,1,R1,2k,https://www.mouser.com/ProductDetail/YAGEO/AC0805FR-072KL?qs=sGAEpiMZZMtlubZbdhIBINBo7nw4llFttbp95JGR8RE%3D,~,Resistor,AC0805FR-072KL,0.1
+12,2,"R2, R5",220,https://www.mouser.com/ProductDetail/YAGEO/RC0805FR-07220RL?qs=sGAEpiMZZMtlubZbdhIBICC4CHQm9fZuGsE02AR9%252BB0%3D,~,Resistor,RC0805FR-07220RL,0.1
+13,1,R3,1k,https://www.mouser.com/ProductDetail/YAGEO/RC0805JR-071K1L?qs=sGAEpiMZZMtlubZbdhIBIHucEnbnlIRR%2F5kUuCkTcKs%3D,~,Resistor,RC0805JR-071K1L,0.1
+14,1,R4,330,https://www.mouser.com/ProductDetail/YAGEO/RC0805FR-07332RL?qs=sGAEpiMZZMtlubZbdhIBIJv49G1poxg9nSdQyCzjNpA%3D,~,Resistor,RC0805FR-07332RL,0.1
+15,1,SW1,SW_SPDT,https://www.mouser.com/ProductDetail/E-Switch/EG1224?qs=HKd%2Fp3M7KlUMARNITVNimA%3D%3D,~,SPDT Switch,EG1224,0.93
+16,1,U1,MCP73831,https://www.mouser.com/ProductDetail/Microchip-Technology/MCP73831T-2DCI-OT?qs=yUQqVecv4qu38ml9qkvsJw%3D%3D,http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf,Charging IC,MCP73831T-2DCI/OT,0.77
+17,1,U2,DIO6605B,https://www.mouser.com/ProductDetail/DIOO-Microcircuits/DIO6605BFN8?qs=8%252Br4Hz5Xir8oRr7fAuVW1Q%3D%3D,h,Boost IC,DIO6605BFN8,0.6
+18,1,U3,AP9101CK,https://www.mouser.com/ProductDetail/Diodes-Incorporated/AP9101CK6-AYTRG1?qs=lQAVKuKFhkLC7cM8EPuWZQ%3D%3D,https://www.diodes.com/assets/Datasheets/AP9101C.pdf,Protection IC,AP9101CK6-AYTRG1,0.46
+,,,,,,,,
+,,,,,,,,
+,,,,,,,Total,5.24
